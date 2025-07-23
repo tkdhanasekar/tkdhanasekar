@@ -1,3 +1,3 @@
 - 👋 Hi, I'm @tkdhanasekar
-- 🔭 I’m interested in Linux, DevOps, AWS
+- 🔭 I’m interested in Linux, DevOps, AWS, Python
 - 📫 mail id tkdhanasekar@gmail.com, twitter [@tkdhanasekar](https://twitter.com/tkdhanasekar)
